@@ -1,0 +1,23 @@
+{
+  "name": "styled-vue",
+  "version": "1.0.0",
+  "description": "My super-duper Nuxt.js project",
+  "author": "Christoph Wolff",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "styled-vue": "^0.3.3",
+    "nodemon": "^1.11.0",
+    "sass-loader": "^8.0.2",
+    "sass": "^1.25.0"
+  }
+}
